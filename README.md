@@ -6,7 +6,8 @@ A fun and interactive 2-player **Tic Tac Toe game** built with **React.js**. Pla
 
 ## 🖼️ Screenshot
 
-![Game Screenshot]([./screenshot.png](https://github.com/user-attachments/assets/7be9ee69-3da7-4dfb-b510-52a3b747c210)) 
+![Screenshot 2025-07-08 095006](https://github.com/user-attachments/assets/fb78daa3-9ef4-4602-a236-70545911b63d)
+
 
 ---
 
