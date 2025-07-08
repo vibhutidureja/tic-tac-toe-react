@@ -71,11 +71,16 @@ tic-tac-toe-react/
 │   └── index.js
 ├── package.json
 └── README.md
+
+
 🌐 Live Demo
+
 Coming soon...
 
 🙌 Author
+
 Made by Vibhuti Dureja
 
 📜 License
+
 This project is open-source and available under the MIT License.
