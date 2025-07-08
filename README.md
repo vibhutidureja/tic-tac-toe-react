@@ -1,23 +1,22 @@
 # 🎮 Tic Tac Toe - React Game
 
-A fun and interactive 2-player **Tic Tac Toe game** built with **React.js**. Play as `❌` or `⭕` and test your strategy skills!
+A fun and interactive 2-player **Tic Tac Toe game** built with **React.js**. Play as ❌ or ⭕ and test your strategy skills!
 
 ---
 
 ## 🖼️ Screenshot
 
-![Screenshot 2025-07-08 095006](https://github.com/user-attachments/assets/fb78daa3-9ef4-4602-a236-70545911b63d)
-
+![Screenshot](https://github.com/user-attachments/assets/fb78daa3-9ef4-4602-a236-70545911b63d)
 
 ---
 
 ## 🚀 Features
 
-- 🔁 2-player turn-based gameplay
+- 🔁 Turn-based 2-player gameplay
 - ❌ vs ⭕ with custom icons
 - 🧠 Win detection logic
-- ♻️ Reset button to start a new game
-- 💻 Responsive UI
+- ♻️ Reset button to restart the game
+- 💻 Responsive and clean UI
 
 ---
 
@@ -33,25 +32,29 @@ A fun and interactive 2-player **Tic Tac Toe game** built with **React.js**. Pla
 
 ### 🔧 Installation
 
-1. **Clone the repository:**
+1. **Clone the repository**
 
    ```bash
    git clone https://github.com/vibhutidureja/tic-tac-toe-react.git
    cd tic-tac-toe-react
-Install dependencies:
+Install dependencies
 
 bash
 Copy
 Edit
 npm install
-Start the development server:
+Start the development server
 
 bash
 Copy
 Edit
 npm start
-Open http://localhost:3000 in your browser to view the app.
+Open your browser and visit:
 
+arduino
+Copy
+Edit
+http://localhost:3000
 📁 Project Structure
 pgsql
 Copy
@@ -72,15 +75,11 @@ tic-tac-toe-react/
 ├── package.json
 └── README.md
 
-
 🌐 Live Demo
-
-Coming soon...
+(https://tic-tac-toe-react-eosin.vercel.app/)
 
 🙌 Author
-
-Made by Vibhuti Dureja
+Made  by Vibhuti Dureja
 
 📜 License
-
 This project is open-source and available under the MIT License.
